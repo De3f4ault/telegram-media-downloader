@@ -66,7 +66,8 @@ A high-performance Telegram media downloader with pacman-style progress display.
 3. **Run the downloader**:
 
    ```bash
-   python telegram_downloader.py
+   python telegram_downloader.py --channel <<channel_name>> --workers 8
+   i.e  python telegram_downloader.py --channel abdsavideo_1 --workers 8
    ```
 
    The script will start downloading media from the specified channels, displaying progress in a pacman-style format.
