@@ -1,7 +1,3 @@
-I apologize for the inconvenience caused by the  characters in the previous messages. These characters were unintended and resulted from formatting issues. To provide you with a clean and accurate README for the GitHub repository, here's the revised version without any extraneous characters:
-
----
-
 # Telegram Media Downloader
 
 A high-performance Telegram media downloader with pacman-style progress display.
